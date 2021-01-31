@@ -1,0 +1,10 @@
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\bin\Debug\SimpleClockScreensaver.exe.config
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\bin\Debug\SimpleClockScreensaver.exe
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\bin\Debug\SimpleClockScreensaver.pdb
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\obj\Debug\SimpleClockScreensaver.csprojAssemblyReference.cache
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\obj\Debug\SimpleClockScreensaver.ScreenSaverForm.resources
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\obj\Debug\SimpleClockScreensaver.Properties.Resources.resources
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\obj\Debug\SimpleClockScreensaver.csproj.GenerateResource.cache
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\obj\Debug\SimpleClockScreensaver.csproj.CoreCompileInputs.cache
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\obj\Debug\SimpleClockScreensaver.exe
+C:\Dev\Visual_Studio_Projects\SimpleClockScreensaver\obj\Debug\SimpleClockScreensaver.pdb
