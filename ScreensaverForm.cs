@@ -90,7 +90,7 @@ namespace SimpleClockScreensaver
 			{
 				if ((Math.Abs(MousePosition.X - mousePositionOnOpen.X) > 10) || (Math.Abs(MousePosition.Y - mousePositionOnOpen.Y) > 10))
 				{
-					Close();
+					//Close();
 				}
 			}
 			else
@@ -102,12 +102,12 @@ namespace SimpleClockScreensaver
 
 		void OnMouseDown(object sender, MouseEventArgs e)
 		{
-			Close();
+			//Close();
 		}
 
 		void OnKeyDown(object sender, KeyEventArgs e)
 		{
-			Close();
+			//Close();
 		}
 	}
 }
